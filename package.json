@@ -1,0 +1,24 @@
+{
+  "name": "react-native-screen-event",
+  "version": "0.0.1",
+  "description": "A Screen Event for React Native apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RB0571/react-native-screen-event.git"
+  },
+  "keywords": [
+    "react-native",
+    "screen",
+    "event"
+  ],
+  "author": "RB0571",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RB0571/react-native-screen-event/issues"
+  },
+  "homepage": "https://github.com/RB0571/react-native-screen-event#readme"
+}
