@@ -9,7 +9,7 @@ var {
 } = ReactNative;
 
 const ScreenEvent = NativeModules.ScreenEvent;
-const onScreenLockStateChangeEvent = 'com.apple.springboard.lockstate'
+const onScreenLockStateChangeEvent = 'com.ronbell.luna.lock.state'
 
 let listener;
 
